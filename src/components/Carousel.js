@@ -47,44 +47,62 @@ export default function Carousel() {
       <Center>
         <Flex className="carousel-image" w={["90vw", "60vw"]}>
           <Image
-            src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-            alt="Segun Adebayo"
+            src="/one.png"
+            alt="proyectos dise;o y arquitectura"
             boxSize="300px"
             mr="2rem"
           />
           <Image
-            src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-            alt="Segun Adebayo"
+            src="/two.png"
+            alt="proyectos dise;o y arquitectura"
             boxSize="300px"
             mr="2rem"
           />
           <Image
-            src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-            alt="Segun Adebayo"
+            src="/tree.png"
+            alt="proyectos dise;o y arquitectura"
             boxSize="300px"
             mr="2rem"
           />
           <Image
-            src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-            alt="Segun Adebayo"
+            src="/four.png"
+            alt="proyectos dise;o y arquitectura"
             boxSize="300px"
             mr="2rem"
           />
           <Image
-            src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-            alt="Segun Adebayo"
+            src="/five.png"
+            alt="proyectos dise;o y arquitectura"
             boxSize="300px"
             mr="2rem"
           />
           <Image
-            src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-            alt="Segun Adebayo"
+            src="/six.png"
+            alt="proyectos dise;o y arquitectura"
             boxSize="300px"
             mr="2rem"
           />
           <Image
-            src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-            alt="Segun Adebayo"
+            src="/seven.png"
+            alt="proyectos dise;o y arquitectura"
+            boxSize="300px"
+            mr="2rem"
+          />
+          <Image
+            src="/eigth.png"
+            alt="proyectos dise;o y arquitectura"
+            boxSize="300px"
+            mr="2rem"
+          />
+          <Image
+            src="/nine.png"
+            alt="proyectos dise;o y arquitectura"
+            boxSize="300px"
+            mr="2rem"
+          />
+          <Image
+            src="/ten.png"
+            alt="proyectos dise;o y arquitectura"
             boxSize="300px"
           />
         </Flex>

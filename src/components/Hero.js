@@ -202,16 +202,18 @@ export default function Hero() {
       </Center>
 
       <Center>
-        <Icon
-          as={TiArrowDownThick}
-          boxSize={20}
-          bg="white"
-          borderRadius="180"
-          color="#333"
-          boxShadow="dark-lg"
-          my="3rem"
-          className="icon-hover"
-        />
+        <a href="#section1">
+          <Icon
+            as={TiArrowDownThick}
+            boxSize={20}
+            bg="white"
+            borderRadius="180"
+            color="#333"
+            boxShadow="dark-lg"
+            my="3rem"
+            className="icon-hover"
+          />
+        </a>
       </Center>
     </Flex>
   );
